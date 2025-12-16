@@ -12,3 +12,4 @@ contract MyMultiToken is ERC1155 {
         _mint(msg.sender, SILVER, 5000, "");
     }
 }
+// Talent.app verification update
